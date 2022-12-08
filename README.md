@@ -114,10 +114,9 @@
 
 <div align='center'>
 
-## <b>Live | Laugh | Love✨</b>
+<b>Live | Laugh | Love✨</b>
 
 </div>
-<br>
 <br>
 <br>
 <br>
