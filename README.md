@@ -95,7 +95,7 @@
 <div align='center'>
 
 <a href="https://www.linkedin.com/in/keval-patel-1608/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  keval-patel-1608-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: kevalpatel-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 <a href="https://twitter.com/Keval_Patel__" target="_blank">
@@ -103,7 +103,7 @@
 </a>
 
 <a href="mailto:kvpatel1682001@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  KevalPatel-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail: KevalPatel-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
 </div>
