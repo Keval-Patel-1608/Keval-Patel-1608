@@ -61,9 +61,6 @@
 
 </p>
 
-<br>
-<br>
-
 -----
 
 <br>
@@ -112,10 +109,9 @@
 <br>
 
 <div align='center'>
-
 <h2><b>Live • Laugh • Love✨</b><h2>
-
 </div>
+	
 <br>
 
 ---
