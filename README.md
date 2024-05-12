@@ -87,8 +87,6 @@
 
 -----
 
-<br>
-
 <div align='center'>
 <b> Let's Connect !</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -119,12 +117,10 @@
 
 </div>
 <br>
-<br>
-<br>
 
 ---
 
 <br>
 
-Last Edited on: 08/12/2022
+Last Edited on: 12/05/2024
 
