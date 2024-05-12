@@ -90,9 +90,9 @@
 <br>
 <br>
 
+<div align='center'>
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='center'>
 
 <a href="https://www.linkedin.com/in/keval-patel-1608/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: kevalpatel-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
