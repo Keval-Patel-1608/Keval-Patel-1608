@@ -16,9 +16,9 @@
 
 <br>
 
-- Computer Science Student
-- A passionate Front-end developer
-- Currently Interning at Eastern Techno Solutions, Surat.
+- Graduate Computer Science Student.
+- Worked as a Front-end developer in Eastern Techno Solutions India Pvt. Ltd.
+- Currently pursuing post graduate course in Mobile Soluitons Development in Conestoga College, Waterloo.
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 - This is [my resume](https://read.cv/keval_patel)
 
