@@ -16,10 +16,11 @@
 
 <br>
 
-- Graduate Computer Science Student.
-- Worked as a Software Developer at Kombee Technologies India Pvt. Ltd.
-- Currently pursuing post graduate course in Mobile Soluitons Development at Conestoga College, Waterloo.
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
+- Software Development Intern at Conestoga Student Research.
+- Over a year of experience as a Software Developer at Kombee Technologies India Pvt. Ltd.
+- Currently pursuing graduate ceterfication in Mobile Soluitons Development at Conestoga College, Waterloo.
+
+- UX Designing Portfolio [link](https://kvpatel.myportfolio.com/)
 - This is [my resume](https://read.cv/keval_patel)
 
 <br><br>
