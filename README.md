@@ -4,10 +4,9 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+there.+Here's+something+about+me,;Front-End+Developer,;Computer+Science+Graduate,;Active+Learner/Researcher,;Open+to+new+challenges,;Nice+to+see+you!"></a>
 </p>
 
-
 <br>
 
-**About me**
+##<b>About me</b>
 <br>
 
 - Software Development Intern at Conestoga Student Research.
