@@ -6,7 +6,7 @@
 
 <br>
 
-<b height="25">About me</b>
+<b>🌟 About me</b>
 --
 <br>
 
