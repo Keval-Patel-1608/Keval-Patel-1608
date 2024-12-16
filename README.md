@@ -6,7 +6,7 @@
 
 <br>
 
-##<b>About me</b>
+<b height="25">About me</b>
 <br>
 
 - Software Development Intern at Conestoga Student Research.
