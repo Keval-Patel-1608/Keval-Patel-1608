@@ -38,38 +38,6 @@
 | **Browsers** | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)&nbsp; ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)&nbsp; ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white) |
 | **AI Tools** | ![ChatGPT](https://img.shields.io/badge/chatGPT-51786e?style=for-the-badge&logo=openai&logoColor=white)&nbsp; ![Claude](https://img.shields.io/badge/Anthropic's%20Claude-BBEEF1?style=for-the-badge&logo=anthropic&logoColor=black) |
 | | |
-
-<br>
-
-<p align="center">
-    
-- **Platforms & Tools**:
-  
-	![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-	![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-	![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-	![Confluence](https://img.shields.io/badge/Confluence-%23036BAF.svg?style=for-the-badge&logo=confluence&logoColor=white)
-	![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-	![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Frameworks/Libraries**:
-  
-	
-
-<br>
-
-- **Databases**:
-	
-	![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-	![Firestore](https://img.shields.io/badge/Firestore-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-	![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-	![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<br>
-</p>
-
 -----
 
 <br>
