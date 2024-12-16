@@ -14,8 +14,8 @@
 - Over a year of experience as a Software Developer at Kombee Technologies India Pvt. Ltd.
 - Currently pursuing graduate ceterfication in Mobile Soluitons Development at Conestoga College, Waterloo.
 
-- UX Designing Portfolio [link](https://kvpatel.myportfolio.com/)
-- This is [my resume](https://read.cv/keval_patel)
+- UX Designing Portfolio [link](https://kvpatel.myportfolio.com/).
+- This is [my resume](https://read.cv/keval_patel).
 
 <br><br>
 
