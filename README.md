@@ -17,8 +17,8 @@
 <br>
 
 - Graduate Computer Science Student.
-- Worked as a Front-end developer in Eastern Techno Solutions India Pvt. Ltd.
-- Currently pursuing post graduate course in Mobile Soluitons Development in Conestoga College, Waterloo.
+- Worked as a Software Developer at Kombee Technologies India Pvt. Ltd.
+- Currently pursuing post graduate course in Mobile Soluitons Development at Conestoga College, Waterloo.
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 - This is [my resume](https://read.cv/keval_patel)
 
@@ -37,6 +37,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 <br>   
     
