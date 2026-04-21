@@ -11,7 +11,7 @@
 <br>
 
 - Software Developer at Nurtichef.
-- 2+ year of experience as a Software Developer.
+- 3+ year of experience as a Software Developer.
 - Completed graduate ceterfication in Mobile Soluitons Development at Conestoga College, Waterloo.
 
 - UX Designing Portfolio [link](https://kvpatel.myportfolio.com/).
